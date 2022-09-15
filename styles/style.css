@@ -1,0 +1,48 @@
+h1,h2,h3 {
+color: #1B25ED;
+text-align: center;
+}
+p, li {
+    font-size: 25px;
+    line-height: 1.25;
+    letter-spacing: 0.5px;
+}
+h1 {
+    font-size: 55px;
+}
+
+h2 {
+    font-size: 50px;
+}
+
+h3 {
+    font-size: 35px;
+}
+html {
+  background-color:#C3ECFD;
+  font-family: "Lato", sans-serif;
+  }
+
+
+
+body {
+    width: 900px;
+    margin: 0 auto;
+    background-color: #f3bf77;
+    padding: 0 30px 20px 30px;
+    border: 5px solid #1B25ED;
+  }
+a:hover {
+    color: green;
+}
+
+h1 {
+    margin: 3% auto 3%;
+    padding: 10px 0;
+    color:  #1B25ED;
+    text-shadow: 4px 1px 1px #2c557c;
+    border: 5px rgb(228, 95, 46);
+    background-color: yellowgreen;
+    width: 350px;
+    text-align: center;
+  }
